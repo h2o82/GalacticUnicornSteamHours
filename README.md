@@ -1,4 +1,4 @@
-# GalacticUnicornSteamHours
+# Galactic Unicorn Steam Hour Ticker
 A Steam Hours ticker for Pimoroni's Galactic Unicorn
 
 With this little script your Galactic Unicorn will connect to any wifi (with a password) and display the amount of hours that you have played non-free and free games on your Steam Account.
